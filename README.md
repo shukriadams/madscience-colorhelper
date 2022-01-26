@@ -15,4 +15,4 @@ Add to package.json :
 
 Import
 
-    const colorhelper = require('madscience-colorhelper').pager
+    const colorhelper = require('madscience-colorhelper')
